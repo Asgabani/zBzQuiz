@@ -70,7 +70,7 @@
    </ul>
    <hr>
 </div>
-<?
+<?php
    }
    }
    else
